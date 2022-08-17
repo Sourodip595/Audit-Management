@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "@angular/cli": "^14.1.1"
+  },
+  "dependencies": {
+    "@angular/compiler-cli": "^14.1.1"
+  }
+}
