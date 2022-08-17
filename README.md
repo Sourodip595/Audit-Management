@@ -5,19 +5,7 @@
 <table>
   <tr>
       <td>
-        <a href="https://github.com/DRoy7">Deep Roy</a>
-        </td>
-      <td>
-        <a href="https://github.com/sriharish252">Sri Harish</a>
-        </td>
-      <td>
-        <a href="https://github.com/Kamalesh8">Kamalesh R</a>
-        </td>
-      <td>
-        <a href="https://github.com/Megha0699">Megha S</a>
-        </td>
-      <td>
-        <a href="https://github.com/greninja199">Praduman Kumar</a>
+        <a href="https://github.com/Sourodip595">Sourodip Kolia</a>
         </td>
     </tr>
 </table>
