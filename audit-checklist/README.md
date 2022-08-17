@@ -6,9 +6,7 @@
   <tr>
       <td>
         <a href="https://github.com/Sourodip595">Sourodip Kolia</a>
-        </td>
-      <td>
-        
+    </td>
     </tr>
 </table>
 
