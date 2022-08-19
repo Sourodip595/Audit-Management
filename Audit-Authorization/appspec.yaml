@@ -3,8 +3,8 @@ Resources:
   - TargetService:
       Type: AWS::ECS::Service
       Properties:
-        TaskDefinition: "arn:aws:ecs:us-east-1:183686979203:task-definition/aws-hello-world-rest-api:1"
+        TaskDefinition: "arn:aws:ecs:us-east-1:860061945305:task-definition/audit-authorisation:1"
         LoadBalancerInfo:
           ContainerName: "aws-hello-world-rest-api"
-          ContainerPort: "80"
+          ContainerPort: "8100"
         PlatformVersion: "LATEST"
