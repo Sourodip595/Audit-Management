@@ -5,6 +5,6 @@ Resources:
       Properties:
         TaskDefinition: "arn:aws:ecs:us-east-1:860061945305:task-definition/audit-benchmark02:1"
         LoadBalancerInfo:
-          ContainerName: "aws-hello-world-rest-api"
+          ContainerName: "audit-benchmark02"
           ContainerPort: "7000"
         PlatformVersion: "LATEST"
