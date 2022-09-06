@@ -36,8 +36,3 @@
 * ### Internal connectivity of the Audit Management App and the Microservices : 
     ![Internal Connectivity of the App](additionalAssets/flow.png)
 
-* ### Screenshots : 
-    ![Login Screen](additionalAssets/login.png)
-    ![Login Screen](additionalAssets/checklist.png)
-    ![Login Screen](additionalAssets/status.png)
-    
